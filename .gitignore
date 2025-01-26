@@ -1,0 +1,7 @@
+.venv
+dist
+idea
+**__pycache__**
+checkpoints
+seqmonkey-200000.jsonl
+t.py
